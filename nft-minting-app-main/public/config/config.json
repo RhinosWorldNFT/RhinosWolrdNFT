@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x855224B674c73dd1A7695aF2eE3Cf842522E38e4",
+  "SCAN_LINK": "https://polygonscan.com/address/0x855224b674c73dd1a7695af2ee3cf842522e38e4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rhinos World NFT",
+  "SYMBOL": "RHINO",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rhinos-world-nft",
+  "SHOW_BACKGROUND": true
+}
